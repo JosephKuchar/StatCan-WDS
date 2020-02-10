@@ -1,0 +1,1 @@
+Currently the only script here uses the getFullTableDownloadCSV function from the Statistics Canada Web Data Service (https://www.statcan.gc.ca/eng/developers/wds) to download a file into a zipped CSV.
